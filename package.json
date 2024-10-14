@@ -1,0 +1,18 @@
+{
+    "name": "educhain-transaksi",
+    "version": "1.0.0",
+    "description": "Skrip untuk mengirim transaksi ke EDUChain Testnet",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "dotenv": "^10.0.0",
+      "web3": "^1.6.1",
+      "colors": "^1.4.0"
+    },
+    "engines": {
+      "node": ">=12.0.0"
+    }
+  }
+  
